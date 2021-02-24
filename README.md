@@ -20,7 +20,7 @@
 
 **Results**
 ![sentiment](https://github.com/ShrishtiHore/Twitter_Sentiment_Analysis/blob/master/twitter_sentiment_analysis_output.PNG)
-![tweet]()
+![tweet](https://github.com/ShrishtiHore/Twitter_Sentiment_Analysis/blob/master/tweet.PNG)
 
 **References**
 1. https://github.com/rishavinvincible/Siraj-Raval-
