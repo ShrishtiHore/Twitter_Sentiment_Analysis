@@ -10,10 +10,13 @@
 
 ### Code and Resources Used
 
-Language: Python 3.8
-Libraries and Modules: Tweepy, textblob, pandas 
-Dataset: Twitter Developer API 
-Keywords: sentiment analysis, twitter, nlp
+**Language:** Python 3.8
+
+**Libraries and Modules:** Tweepy, textblob, pandas 
+
+**Dataset:** Twitter Developer API 
+
+**Keywords:** sentiment analysis, twitter, nlp
 
 **Step 1:** Import all required modules and libraries
 
