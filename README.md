@@ -19,7 +19,9 @@
 **Step 5:** Test the analyzer and export the result in a csv format.
 
 **Results**
+
 ![sentiment](https://github.com/ShrishtiHore/Twitter_Sentiment_Analysis/blob/master/twitter_sentiment_analysis_output.PNG)
+
 ![tweet](https://github.com/ShrishtiHore/Twitter_Sentiment_Analysis/blob/master/tweet.PNG)
 
 **References**
